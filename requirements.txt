@@ -1,0 +1,122 @@
+# =========================
+# Core LangChain Ecosystem
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchainhub
+
+# =========================
+# LCEL / Runnable Support
+# =========================
+langsmith
+
+# =========================
+# Mistral AI Integration
+# =========================
+langchain-mistralai
+mistralai
+
+# =========================
+# Tavily Search Tool
+# =========================
+tavily-python
+
+# =========================
+# Web Scraping / Parsing
+# =========================
+beautifulsoup4
+lxml
+html5lib
+requests
+aiohttp
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Data Validation
+# =========================
+pydantic
+
+# =========================
+# Async + Utilities
+# =========================
+asyncio
+nest-asyncio
+
+# =========================
+# Logging / Debugging
+# =========================
+rich
+loguru
+
+# =========================
+# Token Counting
+# =========================
+tiktoken
+
+# =========================
+# JSON / Parsing Utilities
+# =========================
+orjson
+
+# =========================
+# FastAPI Backend (Optional but Recommended)
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# React Agent Support
+# =========================
+langgraph
+
+# =========================
+# Memory / State Handling
+# =========================
+redis
+
+# =========================
+# Vector Database (Optional)
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+
+# =========================
+# Jupyter Notebook Support
+# =========================
+jupyter
+
+# =========================
+# Testing
+# =========================
+pytest
+
+# =========================
+# Retry Handling
+# =========================
+tenacity
+
+# =========================
+# Typing Support
+# =========================
+typing-extensions
+
+# =========================
+# CLI Utilities
+# =========================
+click
+
+# =========================
+# Optional Monitoring
+# =========================
+wandb
