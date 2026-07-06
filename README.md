@@ -6,7 +6,11 @@
 
 ---
 
-## 🚀 Demo
+## 🚀 Demo link
+
+https://research-mind-anrqhvdvjxym4nnvpkc2ua.streamlit.app/
+
+
 
 <img width="1173" height="595" alt="Screenshot 2026-05-23 210258" src="https://github.com/user-attachments/assets/86b73dd7-2481-4cdd-b39c-6894bf870c59" />
 <img width="1156" height="499" alt="Screenshot 2026-05-23 210337" src="https://github.com/user-attachments/assets/02bad649-d4ef-4b4b-9eb5-fd7907d8ce14" />
